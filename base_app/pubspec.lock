@@ -94,7 +94,7 @@ packages:
       path: "../micro_app_login"
       relative: true
     source: path
-    version: "0.0.1"
+    version: "1.0.0"
   micro_core:
     dependency: "direct main"
     description:
